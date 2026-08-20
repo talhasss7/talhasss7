@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**talhasss7/talhasss7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🤝 I enjoy helping others and I'm eager to learn
+- 🌱 Currently learning Python  
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Language:** Python  
+- **Tool:** VS Code  
+
+---
+
+## 📫 Contact  
+- [Github Profile](https://github.com/in/talhasss7)  
+
+---
+
+⭐️ Thanks for visiting my profile!
