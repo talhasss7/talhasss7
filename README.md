@@ -15,7 +15,7 @@
 ---
 
 ## 📫 Contact  
-- [Github Profile](https://github.com/in/talhasss7)  
+- [Github Profile](https://github.com/talhasss7)  
 
 ---
 
