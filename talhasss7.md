@@ -19,4 +19,4 @@
 
 ---
 
-⭐️ Thanks for visiting my profile!
+⭐️ Thanks for visiting my profile
