@@ -15,8 +15,8 @@
 ---
 
 ## 💬 Languages I Speak
-- 🇹🇷 Turkish (Native)  
-- 🇬🇧 English (Intermediate)  
+- Turkish (Native)  
+- English (Intermediate)  
 
 ---
 
