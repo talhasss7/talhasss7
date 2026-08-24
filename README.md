@@ -14,12 +14,6 @@
 
 ---
 
-## 💬 Languages I Speak
-- Turkish (Native)  
-- English (Intermediate)  
-
----
-
 ## 📫 Contact  
 - [Github Profile](https://github.com/talhasss7)  
 
